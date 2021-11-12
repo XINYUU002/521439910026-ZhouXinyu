@@ -1,0 +1,100 @@
+void setup()
+{
+  size(1000,1000);
+  background(225);
+  
+}
+
+void draw()
+{
+  frameRate(2);
+  noStroke();
+  
+  fill(80);
+  rect(240,520,60,160);
+  fill(150);
+  rect(800,60,160,50);
+  fill(random(100,255));
+  rect(100,60,100,280);
+  rect(630,660,170,440);
+  rect(0,820,100,50);
+  
+  fill(random(100,200));
+  rect(100,0,10,1000);
+  fill(random(50,150));
+  rect(130,480,15,40);
+  fill(random(50,150));
+  rect(130,680,5,140);
+  fill(random(50,150));
+  rect(200,60,5,320);
+  fill(random(50,150));
+  rect(210,480,30,40);
+  fill(random(50,150));
+  rect(200,680,15,190);
+  fill(random(50,150));
+  rect(240,380,10,300);
+  fill(random(50,150));
+  rect(300,520,10,160);
+  fill(random(50,150));
+  rect(370,450,10,230);
+  fill(random(50,150));
+  rect(400,520,10,350);
+  fill(random(50,150));
+  rect(500,60,30,460);
+  fill(random(50,150));
+  rect(540,60,10,460);
+  fill(random(50,150));
+  rect(590,520,15,480);
+  fill(random(50,150));
+  rect(600,870,15,30);
+  fill(random(50,150));
+  rect(630,520,10,480);
+  fill(random(50,150));
+  rect(650,520,10,660);  
+  fill(random(50,150));
+  rect(800,0,15,1000);
+  fill(random(50,150));
+  rect(830,270,30,250);
+  fill(random(50,150));
+  rect(920,520,10,480);
+  fill(random(50,150));
+  rect(960,0,20,1000);
+  
+  fill(random(50,150));
+  rect(0,60,1000,10);
+  fill(random(50,150));
+  rect(540,110,460,10);
+  fill(random(50,150));
+  rect(200,200,300,40);
+  fill(random(50,150));
+  rect(800,270,200,15);
+  fill(random(50,150));
+  rect(800,340,30,50);
+  fill(random(50,150));
+  rect(100,380,140,10);
+  fill(random(50,150));
+  rect(100,450,440,15);
+  fill(random(50,150));
+  rect(100,480,140,5);
+  fill(random(50,150));
+  rect(800,480,160,15);
+  fill(random(50,150));
+  rect(100,520,1000,10);
+  fill(random(50,150));
+  rect(300,660,70,10);
+  fill(random(50,150));
+  rect(630,660,170,10);
+  fill(random(50,150));
+  rect(0,820,200,15);
+  fill(random(50,150));
+  rect(100,870,100,10);
+  fill(random(50,150));
+  rect(800,800,960,20);
+  fill(random(50,150));
+  rect(0,870,630,20);
+  fill(random(50,150));
+  rect(590,900,40,5);
+  fill(random(50,150));
+  rect(100,680,300,15);
+
+}
